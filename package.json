@@ -13,5 +13,9 @@
     "zorin"
   ],
   "author": "Muhammed Sabith AS & Aromal S",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "tailwindcss": "^4.1.14"
+  }
 }
